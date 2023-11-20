@@ -1,0 +1,12 @@
+num= 10
+sum=0
+for num1 in range(num+1):
+    sum = num1 + sum
+print(sum)
+x=[23,45,67,42,84,55,90]
+y=[]
+for num in x:
+    if num%2 != 0:
+        y.append(num)
+
+print(y)
