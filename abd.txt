@@ -1,1 +1,2 @@
-oc get is -n openshift
+
+oc get svc
